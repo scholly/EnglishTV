@@ -33,10 +33,6 @@ http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.
 #EXTINF:-1, ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
 
-
-#EXTINF:-1, ESPN2
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8? 
-
 #EXTINF:-1,FOX SPORTS 2 HD  Australia
 http://fsplive_hls-lh.akamaihd.net/i/fsp_hls_fs2sea_1@305331/index_1200_av-p.m3u8
 
