@@ -27,11 +27,4 @@ rtmp://89.248.172.159:443/liverepeater playpath=35 swfUrl=http://popeoftheplayer
 #EXTINF:-1, Boxnation
 http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8 
 
-#EXTINF:-1,Astro 1
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/72.ts
-#EXTINF:-1,Astro 2
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/73.ts
-#EXTINF:-1,Astro 3
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/74.ts
-
 
