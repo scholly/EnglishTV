@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1, Dam Buster Part 1
-http://dl1.ipithos.to:182/d/rm64c2x73o4pc44upcrrqxho3lsnkx4vudplj24dx5nrhw53r36v2pxq/The.Dam.Busters.1955.BluRay.FS.720p.H264.mp4.mp4.mp4
-
 #EXTINF:-1, Motor Sports Channel 7 Australia
 http://motorsport.hopto.org:8080/
+
+#EXTINF:-1, Sky sports 1 HD
+http://macedoniathebest.mine.nu/the/best/24.ch
 
 #EXTINF:-1, Sky sports 1
 rtmp://89.248.172.159:443/liverepeater playpath=24 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=600&height=450 token=#atd%#$ZH
