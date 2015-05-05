@@ -1,25 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1,Sky Sports 1
-http://167.114.116.121:1935/live/skysports1hd/play.m3u8
-#EXTINF:-1,Sky Sports 2
-http://167.114.116.121:1935/live/skysports2hd/play.m3u8
-#EXTINF:-1,Sky Sports 3
-http://167.114.116.121:1935/live/skysports3hd/play.m3u8
-#EXTINF:-1,Sky Sports 4
-http://167.114.116.121:1935/live/skysports4hd/play.m3u8
-#EXTINF:-1,Sky Sports 5
-http://167.114.116.121:1935/live/skysports5hd/play.m3u8
-#EXTINF:-1,btsports1
-http://167.114.116.121:1935/live/btsports1hd/play.m3u8
-#EXTINF:-1,btsports2
-http://167.114.116.121:1935/live/btsports2hd/play.m3u8
-#EXTINF:-1,skysportsnews
-http://167.114.116.121:1935/live/skysportsnewshd/play.m3u8
-#EXTINF:-1,racing
-http://167.114.116.121:1935/live/racinghd/play.m3u8
-#EXTINF:-1,boxnation
-http://167.114.116.121:1935/live/boxnationhd/play.m3u8
+#EXTINF:0,Sky Sports 1
+acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955
+#EXTINF:0,Sky Sports 2
+acestream://97518ab8451a5c9e8da2b92245ac0ea6622a519c
+#EXTINF:0,Sky Sports 3
+acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887
+#EXTINF:0,Sky Sports 5
+acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b
+#EXTINF:0,Sky Sports F1
+acestream://2dff503259045e4d119e6e972a3db8521c47198a
 
 #EXTINF:-1, Motor Sports Channel 7 Australia
 http://motorsport.hopto.org:8080/
