@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0,Sky Sports 1
+rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194327. clientid A¼\4
 
 #EXTINF:0,Sky Sports 1
 http://apniapps.ddns.net:8080/sp1/sp0RT1/index.m3u8
