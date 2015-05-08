@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,Sky Sports 1
-rtmpe://31.7.58.114:1935/goLive?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTUgNDoyNzo1MyBBTSZoYXNoX3ZhbHVlPUE5UFNXNVlPRUw3dWdZVi9uR0ZkR2c9ÃƒPSZ2YWxpZG1pbnV0ZXM9Mclientid Aº¿¼ÀsecureTokenH69ea87eb8b0247ffbfc1ed50ae3e115fac64bf5664d355f9c5d18188011a34c9537c16be
 
 #EXTINF:0,Sky Sports 1
 http://apniapps.ddns.net:8080/sp1/sp0RT1/index.m3u8
