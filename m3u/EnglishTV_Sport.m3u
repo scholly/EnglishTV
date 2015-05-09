@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,Sky Sports 1
-rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/?oregex_xs playpath=?doregex_path swfVfy=1 token=?doregex_tok swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15&
+rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/?oregex_xs playpath=?doregex_path swfVfy=1 token=?doregex_tok swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15
 
 #EXTINF:0,Sky Sports 1
 http://apniapps.ddns.net:8080/sp1/sp0RT1/index.m3u8
