@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0,BBC 1
-rtmp://174.36.1.75/live app=live swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php?cid=15584&wh=658&ht=470&r=tv4embed.com
+rtmp://174.36.1.75/live app=live swfUrl=http://static.castalba.tv/player5.9.swf pageUrl=http://castalba.tv/embed.php
 
 
 #EXTINF:0,Sky Sports 1
