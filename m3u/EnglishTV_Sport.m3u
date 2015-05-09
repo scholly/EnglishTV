@@ -4,13 +4,22 @@
 rtmp://46.246.29.135:1935/stream/ playpath=WWv4pD0kYn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/
 player=default rating=-1.00
 
+#EXTINF:0,Sky Sports 1
+http://bit.do/4wbL
+
 #EXTINF:0,Sky Sports 1 HD
 rtmp://195.154.168.217:80/liverepeater/303035 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch
 player=default rating=-1.00
 
+#EXTINF:0,Sky Sports 2
+http://bit.do/4wbM
+
 #EXTINF:0,SKY SPORTS 2 HD
 rtmp://195.154.168.217:80/liverepeater/303018 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch
 player=default rating=-1.00
+
+#EXTINF:0,Sky Sports 3
+http://bit.do/4wbV
 
 #EXTINF:0,Sky Sports 3
 rtmp://80.82.78.87:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf live=1 pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=530&height=370 token=#atd%#$ZH
