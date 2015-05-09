@@ -6,6 +6,11 @@ rtmp://watch4.streamlive.to:1935/edge app=edge/_definst_/?oregex_xs playpath=?do
 #EXTINF:0,Sky Sports 1
 rtmp://watch4.streamlive.to:1935/edge  playpath=?doregex_path swfVfy=1  swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15
 
+#EXTINF:0,Sky Sports 1
+rtmp://watch4.stÃreamlive.to:1935/edge/_definst_/?xs=_we_OWRkbHBpaWpqY2kxMm85fDE0MzExMzE2OTl8MTE1LjE4OC4yLjd8NTU0ZDU0Y2IzMGZiMHxiMWYwMmZhZTcxOWUwÃZjI1NDkxOGYwNjVhYjI2NTk5NTNlODUyMGE5
+app=edge/_definst_/?  xs=_we_OWRkbHBpaWpqY2kxMm85fDE0MzExMzE2OTl8MTE1LjE4OC4yLjd8NTU0ZDU0Y2IzMGZiMHxiMWYwMÃmZhZTcxOWUwZjI1NDkxOGYwNjVhYjI2NTk5NTNlODUyMGE5
+swfUrl=https://www.streamlive.to/ads/streamlive.swf
+pageUrl=https://www.streamlive.to
 
 
 #EXTINF:0,Sky Sports 1
