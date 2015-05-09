@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:0,Sky Sports 3 HD
+rtmp://94.23.53.51/send/sshd3.stream
+
+
 #EXTINF:0,Sky Sports 2
 rtmp://31.220.0.206/redirect/ app=redirect/ swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php live=s2r vw=620 vh=490
 
