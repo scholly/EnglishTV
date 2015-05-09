@@ -4,7 +4,7 @@
 rtmp://31.220.0.206:1935/live app=live swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php live=s2r
 
 #EXTINF:0,Sky Sports 2
-rtmp://31.220.0.206:1935/live/_definst_/s2r
+rtmp://31.220.0.206/redirect/ app=redirect/ swfUrlhttp://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php? live=s2r vw=620 vh=490
 
 
 #EXTINF:0,Sky Sports 1
