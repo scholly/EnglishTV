@@ -34,7 +34,7 @@ rtmp://80.82.78.87:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.e
 player=default rating=-1.00
 
 #EXTINF:0,Sky Sports 3 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=10 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
+URL=rtmp://80.82.78.15:443/liverepeater/ playpath=10 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 player=default rating=-1.00
 
 #EXTINF:0,Sky sports 4
