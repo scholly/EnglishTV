@@ -19,7 +19,7 @@ player=default rating=-1.00
 http://bit.do/4wbM
 
 #EXTINF:0,Sky Sports 2 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=48 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://80.82.78.15:443/liverepeater/ playpath=48 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 player=default rating=-1.00
 
 #EXTINF:0,SKY SPORTS 2 HD
@@ -34,7 +34,7 @@ rtmp://80.82.78.87:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.e
 player=default rating=-1.00
 
 #EXTINF:0,Sky Sports 3 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=10 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+rtmp://80.82.78.15:443/liverepeater/ playpath=10 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 player=default rating=-1.00
 
 #EXTINF:0,Sky sports 4
@@ -42,7 +42,7 @@ rtmp://89.248.172.159:443/liverepeater playpath=31 swfUrl=http://popeoftheplayer
 player=default rating=-1.00
 
 #EXTINF:0,Sky Sports 4 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=16 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
+rtmp://80.82.78.15:443/liverepeater/ playpath=16 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
 player=default rating=-1.00
 
 #EXTINF:0,SKY SPORTS 4 HD
@@ -50,11 +50,11 @@ rtmp://195.154.168.217:80/liverepeater/303020 pageUrl=http://goodcast.co/ token=
 player=default rating=-1.00
 
 #EXTINF:0,Sky Sports 5 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=11 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
+rtmp://80.82.78.15:443/liverepeater/ playpath=11 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
 player=default rating=-1.00
 
 #EXTINF:0,Sky Sports F1 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=35 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
+rtmp://80.82.78.15:443/liverepeater/ playpath=35 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
 player=default rating=-1.00
 
 #EXTINF:0,SKY SPORTS F1 HD
@@ -65,7 +65,7 @@ player=default rating=-1.00
 http://motorsport.hopto.org:8080/
 
 #EXTINF:0,Motors TV
-URL=http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2 
+http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2 
 player=default rating=-1.00
 
 #EXTINF:0,Autosports TV
