@@ -19,7 +19,7 @@ player=default rating=-1.00
 http://bit.do/4wbM
 
 #EXTINF:0,Sky Sports 2 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=48 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
+URL=rtmp://80.82.78.15:443/liverepeater/ playpath=48 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 player=default rating=-1.00
 
 #EXTINF:0,SKY SPORTS 2 HD
@@ -50,22 +50,27 @@ rtmp://195.154.168.217:80/liverepeater/303020 pageUrl=http://goodcast.co/ token=
 player=default rating=-1.00
 
 #EXTINF:0,Sky Sports 5 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=11 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH player=default rating=-1.00
+URL=rtmp://80.82.78.15:443/liverepeater/ playpath=11 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
+player=default rating=-1.00
 
 #EXTINF:0,Sky Sports F1 (Updated 03.05.15)
-URL=rtmp://80.82.78.15:443/liverepeater/ playpath=35 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH player=default rating=-1.00
+URL=rtmp://80.82.78.15:443/liverepeater/ playpath=35 token=#atd%#$ZH pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
+player=default rating=-1.00
 
 #EXTINF:0,SKY SPORTS F1 HD
-rtmp://195.154.168.217:80/liverepeater/303022 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch player=default rating=-1.00
+rtmp://195.154.168.217:80/liverepeater/303022 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch 
+player=default rating=-1.00
 
 #EXTINF:-1, Motor Sports Channel 7 Australia
 http://motorsport.hopto.org:8080/
 
 #EXTINF:0,Motors TV
-URL=http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2 player=default rating=-1.00
+URL=http://46.61.226.18/hls/CH_MOTORSTV/bw1500000/variant.m3u8?version=2 
+player=default rating=-1.00
 
 #EXTINF:0,Autosports TV
-mms://100automoto.tv/100livesport player=default  rating=-1.00
+mms://100automoto.tv/100livesport 
+player=default  rating=-1.00
 
 #EXTINF:-1, ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
