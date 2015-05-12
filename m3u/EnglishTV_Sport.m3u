@@ -93,6 +93,9 @@ http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
 #EXTINF:-1, ESPN 3 HD
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8
 
+#EXTINF:-1,STAR SPORTS
+http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
+
 #EXTINF:-1,Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
