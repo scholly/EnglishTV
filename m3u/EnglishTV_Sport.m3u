@@ -3,17 +3,32 @@
 #EXTINF:0,SKY SPORTS 1
 http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
 
+#EXTINF:-1,SS1
+rtmp://185.63.252.242/app//asky1
+
 #EXTINF:0,SKY SPORTS 2
 http://smarterapps.ddns.net:8080/spTfor2T0w/MnSsp2Two/index.m3u8
+
+#EXTINF:-1,SS2
+rtmp://185.63.252.16/app//asky2
 
 #EXTINF:0,SKY SPORTS 3
 http://smarterapps.ddns.net:8080/spR3/sprT3Ke/index.m3u8
 
+#EXTINF:-1,SS3
+rtmp://185.63.252.155/app//asky3
+
 #EXTINF:0,SKY SPORTS 4
 http://smarterapps.ddns.net:8080/sp4T/sp4RkkW/index.m3u8
 
+#EXTINF:-1,SS4
+rtmp://185.63.252.16/app//asky4
+
 #EXTINF:0,SKY SPORTS 5
 http://smarterapps.ddns.net:8080/sTp5/sp5PkeY/index.m3u8
+
+#EXTINF:-1,SS5
+rtmp://185.63.252.155/app//asky5
 
 #EXTINF:-1, Sony 6 Sports
 http://smarterapps.ddns.net:8080/SoXkY/So00NYyT6/index.m3u8
