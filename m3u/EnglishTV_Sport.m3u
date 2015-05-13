@@ -28,7 +28,7 @@ http://smarterapps.ddns.net:8080/ptvspRrT1/ptvspR1/index.m3u8
 #EXTINF:-1,Super sports
 http://smarterapps.ddns.net:8080/geoSupRr/geoS4SupRR/index.m3u8
 
-#EXTINF:-1,Old Links
+#EXTINF:-1,[color,red]Old Links[color]
 
 #EXTINF:0,Sky Sports 1
 rtmp://$OPT:rtmp-raw=rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=1 timeout=10 
