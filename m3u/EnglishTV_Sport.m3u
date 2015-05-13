@@ -66,7 +66,7 @@ http://113.160.49.34/lives/origin03/starsportsd.isml/starsportsd-1096k.m3u8
 #EXTINF:-1,Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
-#EXTINF:-1,[color red]Old Links[/color]
+#EXTINF:-1,[COLOR red]Old Links[/COLOR]
 
 #EXTINF:0,Sky Sports 1
 rtmp://$OPT:rtmp-raw=rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=1 timeout=10 
