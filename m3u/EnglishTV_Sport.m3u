@@ -1,5 +1,37 @@
 #EXTM3U
 
+#EXTINF:0,SKY SPORTS 1
+http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
+
+#EXTINF:0,SKY SPORTS 2
+http://smarterapps.ddns.net:8080/spTfor2T0w/MnSsp2Two/index.m3u8
+
+#EXTINF:0,SKY SPORTS 2
+http://smarterapps.ddns.net:8080/spTfor2T0w/MnSsp2Two/index.m3u8
+
+#EXTINF:0,SKY SPORTS 3
+http://smarterapps.ddns.net:8080/spR3/sprT3Ke/index.m3u8
+
+#EXTINF:0,SKY SPORTS 4
+http://smarterapps.ddns.net:8080/sp4T/sp4RkkW/index.m3u8
+
+#EXTINF:0,SKY SPORTS 5
+http://smarterapps.ddns.net:8080/sTp5/sp5PkeY/index.m3u8
+
+#EXTINF:-1, Sony 6 Sports
+http://smarterapps.ddns.net:8080/SoXkY/So00NYyT6/index.m3u8
+
+#EXTINF:-1, PTV Sports
+http://smarterapps.ddns.net:8080/ptvT2/ptvT4two/index.m3u8
+http://smarterapps.ddns.net:8080/ptvspRrT1/ptvspR1/index.m3u8
+
+#EXTINF:-1,Super sports
+http://smarterapps.ddns.net:8080/geoSupRr/geoS4SupRR/index.m3u8
+
+#EXTINF:-1,Old Links
+
+#EXTINF:0,Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmp://w8.vmnode.pw:1935/live playpath=elite29 swfUrl=http://skyaccess.se/vb/jwplayer/player-licensed.swf pageUrl=http://nodetower.com/7-SFE-SZE-HOSTACCESS/media/elite29.php live=1 timeout=10 
 
 #EXTINF:0,Sky Sports 1
 rtmp://46.246.29.135:1935/stream/ playpath=WWv4pD0kYn.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/
