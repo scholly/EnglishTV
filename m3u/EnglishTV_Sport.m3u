@@ -1,24 +1,5 @@
 #EXTM3U
 #EXTINF:0, Updated 15 May 2015
-#EXTINF:0,Sky Sport 24 HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/29.ts
-#EXTINF:0,Sky Sport 1 HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/30.ts
-#EXTINF:0,Sky Sport 2 HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/31.ts
-#EXTINF:0,Sky Sport 3 HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/32.ts
-#EXTINF:0,Sky Sport Plus HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/33.ts
-#EXTINF:0,OX Sport HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/35.ts
-#EXTINF:0,FOX Sport 2 HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/40.ts
-#EXTINF:0,Sky Sport F1 HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/36.ts
-#EXTINF:0,Sky Sport MotoGP HD
-http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/37.ts
-
 
 #EXTINF:0,SKY SPORTS 1
 http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
@@ -28,6 +9,9 @@ rtmp://185.63.252.242/app//asky1
 
 #EXTINF:0,SKY SPORTS 2
 http://smarterapps.ddns.net:8080/spTfor2T0w/MnSsp2Two/index.m3u8
+
+#EXTINF:0,SKY SPORTS 2 HD
+rtmpe://46.246.124.87:1935/livedge playpath=sskys2 pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:0,SKY SPORTS 2 HD
 rtmp://195.154.168.217:80/liverepeater/303018 pageUrl=http://goodcast.co/ token=Fo5_n0w?U.rA6l3-70w47ch 
