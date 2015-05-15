@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:0, Updated 15 May 2015
+#EXTINF:0,Sky Sport 24 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/29.ts
+#EXTINF:0,Sky Sport 1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/30.ts
+#EXTINF:0,Sky Sport 2 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/31.ts
+#EXTINF:0,Sky Sport 3 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/32.ts
+#EXTINF:0,Sky Sport Plus HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/33.ts
+#EXTINF:0,OX Sport HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/35.ts
+#EXTINF:0,FOX Sport 2 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/40.ts
+#EXTINF:0,Sky Sport F1 HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/36.ts
+#EXTINF:0,Sky Sport MotoGP HD
+http://proffiptv.mine.nu:15003/live/aalc/3YqtqEakrQ/37.ts
+
 
 #EXTINF:0,SKY SPORTS 1
 http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
