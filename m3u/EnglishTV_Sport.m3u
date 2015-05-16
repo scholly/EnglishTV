@@ -10,6 +10,21 @@ rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541 app=liverepeater
 #EXTINF:0, Test Link 2
 rtmp://rtmp.biggestplayer.me:1935/liverepeater app=liverepeater playpath=_definst_/194541 swfUrl=http://bernardotv.club/playertest.swf live=1 pageUrl=http://biggestplayer.me/streamcr.php
 
+#EXTINF:0,Sky Sports 1
+http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+
+#EXTINF:0,Sky Sports 2
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+
+#EXTINF:0,Sky Sports 3
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+
+#EXTINF:0,Sky Sports 4
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+
+#EXTINF:0,Sky Sports 5
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+
 #EXTINF:0,SKY SPORTS 1
 http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
 
