@@ -2,7 +2,7 @@
 #EXTINF:0, Updated 15 May 2015
 
 #EXTINF:0, Test Link
-rtmp://178.18.31.59:443/liverepeater  app=liverepeater swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php
+rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541 live=1 PageUrl=http://biggestplayer.me/streamcr.php
 
 #EXTINF:0, Test Link 2
 rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541
