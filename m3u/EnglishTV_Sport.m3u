@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, Updated 15 May 2015
+#EXTINF:0, Updated 16 May 2015
 
 #EXTINF:0, Test Link
 rtmp://178.18.31.59:443/liverepeater playpath=_definst_/194541 app=liverepeater live=1 pageUrl=http://biggestplayer.me/streamcr.php swfUrl=http://bernardotv.club/playertest.swf
@@ -24,6 +24,18 @@ http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
 
 #EXTINF:0,Sky Sports 5
 http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+
+#EXTINF:0,Sky Sports F1
+http://195.154.227.38:1935/live/skysportsf1lsh/playlist.m3u8
+
+#EXTINF:0,BT Sport 1
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+
+#EXTINF:0,BT Sport 2
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+
+#EXTINF:0,ESPN UK
+http://195.154.227.38:1935/live/espnuklsh/playlist.m3u8
 
 #EXTINF:0,SKY SPORTS 1
 http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
