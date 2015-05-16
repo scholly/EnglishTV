@@ -2,7 +2,7 @@
 #EXTINF:0, Updated 16 May 2015
 
 #EXTINF:0,Test
-rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=abc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=cinemax1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=cinemax1569&vw=600&vh=430
 
 #EXTINF:0,Sky Sports 1
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
