@@ -8,7 +8,7 @@ rtmp://178.18.31.59:443/liverepeater playpath=_definst_/194541 app=liverepeater 
 rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541 app=liverepeater live=0 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194541 
 
 #EXTINF:0, Test Link 2
-rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541 app=liverepeater swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194541 clientid=19451 
+rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541 app=liverepeater swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194541 timecodeOffset=2543217
 
 #EXTINF:0,SKY SPORTS 1
 http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
