@@ -2,10 +2,11 @@
 #EXTINF:0, Updated 15 May 2015
 
 #EXTINF:0, Test Link
-rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541 live=1 PageUrl=http://biggestplayer.me/streamcr.php
+rtmp://178.18.31.59:443/liverepeater playpath=_definst_/194541 app=liverepeater live=1 pageUrl=http://biggestplayer.me/streamcr.php swfUrl=http://bernardotv.club/playertest.swf 
 
 #EXTINF:0, Test Link 2
 rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194541 app=liverepeater live=1 pageUrl=http://biggestplayer.me/streamcr.php swfUrl=http://bernardotv.club/playertest.swf 
+
 #EXTINF:0,SKY SPORTS 1
 http://smarterapps.ddns.net:8080/spTt1One/sp0RT1eK/index.m3u8
 
