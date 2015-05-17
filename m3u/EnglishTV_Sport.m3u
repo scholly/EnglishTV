@@ -4,8 +4,8 @@
 #EXTINF:0,Test 1b
 rtmp://31.220.0.206:1935/live/_definst_/s2r 
 
-#EXTINF:0,Test 2c
-rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194618 app=liverepeater playpath=_definst_/194618 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194618&width=620&height=490
+#EXTINF:0,Test 2d
+rtmp://178.18.31.58:443/liverepeater app=liverepeater playpath=_definst_/194618 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194618&width=620&height=490
 
 #EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC_MAX" group-title="Movies - סרטים" tvg-logo="f4e79113b038e4e4c618dbb3fdb83b6a.png",MBC MAX
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
