@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, Updated 16 May 2015
 
-#EXTINF:0,Test 1b
-rtmp://31.220.0.206:1935/live/_definst_/s2r 
+#EXTINF:0,Test 1c
+rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194618 
 
 #EXTINF:0,Test 2d
 rtmp://178.18.31.58:443/liverepeater app=liverepeater playpath=_definst_/194618 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194618&width=620&height=490
