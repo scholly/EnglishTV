@@ -22,6 +22,8 @@ rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplay
 #EXTINF:O,ABC USA test
 rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=abc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430
 
+#EXTINF:0,SuperSport 1 HD test
+http://iptv.hopto.org:9705/live/fcb:AlbTvSystems../fcb:AlbTvSystems../153.ts
 
 #EXTINF:0,Sky Sports 1
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
