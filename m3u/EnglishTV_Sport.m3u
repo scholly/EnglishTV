@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0, Updated 16 May 2015
 
-#EXTINF:-1, Test
-rtmpe://rtmp.zerocast.tv/goLive/tPjsURqsVo4NSe23EhJP swfUrl=http://cdn.zerocast.tv/player/jwplayer.flash.swf pageUrl=http://zerocast.in/embed.php?a=16 token=OOG17t.x#K9Vh#|
+#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC_MAX" group-title="Movies - סרטים" tvg-logo="f4e79113b038e4e4c618dbb3fdb83b6a.png",MBC MAX
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
 
 #EXTINF:0,Sky Sports 1
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
