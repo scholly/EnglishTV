@@ -4,7 +4,7 @@
 #EXTINF:0,Test 1c
 rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194618 
 
-#EXTINF:0,Test 2e
+#EXTINF:0,Test 2f
 rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194618 app=liverepeater playpath=_definst_/194618 swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194618&width=620&height=490
 
 #EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC_MAX" group-title="Movies - סרטים" tvg-logo="f4e79113b038e4e4c618dbb3fdb83b6a.png",MBC MAX
