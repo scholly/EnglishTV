@@ -2,7 +2,7 @@
 #EXTINF:0, Updated 16 May 2015
 
 #EXTINF:0,Test 1d
-rtmp://31.220.0.206:1935/live/_definst_/sky1u 
+rtmp://rtmp.zerocast.tv:1935/live/ playpath=TfRQx7deUAuncJwM047m swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=8964316ec8772dfa live=1swfVfy=1 pageUrl=http://zerocast.tv
 
 #EXTINF:0,Test 2h
 rtmp://93.158.217.246:80/live playpath=sky1u swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://flashtv.co/embedu.php?live=sky1u&vw=650&vh=480 Token=H67a326d3c2dc8f0bb55f2d96ab60546a442222853e64f1f9e6ea3c6af977f8302f008580
