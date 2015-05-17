@@ -4,10 +4,10 @@
 #EXTINF:0,Test 1c
 rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194618 
 
-#EXTINF:0,Test 2f
+#EXTINF:0,Test 2g
 rtmp://rtmp.biggestplayer.me:1935/liverepeater/_definst_/194618  swfUrl=http://bernardotv.club/playertest.swf pageUrl=http://biggestplayer.me/streamcr.php?id=194618&width=620&height=490
 
-#EXTINF:0,Test 3
+#EXTINF:0,Test 3a
 rtmp://31.220.0.206/redirect/ swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf
 pageUrl=http://reytv.co/embedu.php?live=ssx4&vw=620&vh=490 redirect=rtmp://31.220.0.195:80/live Token=Hc9c304755e66b2f49925cbe59f338c25746614090ec893727747265100417e2e81681dab rtmp://31.220.0.206:1935/live/_definst_/ssx4
 
