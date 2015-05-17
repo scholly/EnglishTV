@@ -14,10 +14,14 @@ rtmp://137.63.71.18:443/liverepeater swfUrl=http://popeoftheplayers.eu/stylish/s
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
 
 #EXTINF:-1,sky SPORTS 1 test
-
 rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys1
+
 #EXTINF:-1,sky SPORTS 2 test
 rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys2&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sskys2
+
+#EXTINF:O,ABC USA test
+rtmp://$OPT:rtmp-raw=rtmpe://watch.playfooty.tv/live playpath=abc1569 swfUrl=http://www.playfooty.tv/play/player/player.swf live=1 pageUrl=http://www.playfooty.tv/play/embed.php?u=abc1569&vw=600&vh=430
+
 
 #EXTINF:0,Sky Sports 1
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
