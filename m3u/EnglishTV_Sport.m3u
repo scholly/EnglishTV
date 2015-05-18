@@ -4,8 +4,8 @@
 #EXTINF:0,Aljazeera Test 9
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live app=aljazeeraflashlive-live/ swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/al-jazeera-english live=1 playpath=aljazeera_eng_high
 
-#EXTINF:0,ss1 14
-rtmp://80.82.78.26:443/liverepeater/live app=liverepeater swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=69&width=700&height=450 live=1 playpath=live
+#EXTINF:0,ss1 15
+rtmp://80.82.78.26:443/liverepeater app=liverepeater swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php live=1 playpath=live
 
 #EXTINF:0,Test 1k
 rtmp://80.82.78.75/spull/ app=spull/ swfUrl=http://files.leton.tv/jwplayer.flash.swf pageUrl=http://leton.tv/player.php? streampage=zbxtkb4j29hr7_fbvnofeeb3&width=640&height=385
