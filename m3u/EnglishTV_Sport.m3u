@@ -4,7 +4,6 @@
 #EXTINF:0,Aljazeera Test 9
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live app=aljazeeraflashlive-live/ swfUrl=http://tv.filmover.com/jwp63/jwplayer.flash.swf pageUrl=http://www.africawebtv.com/al-jazeera-english live=1 playpath=aljazeera_eng_high
 
-#EXTINF:0,test 1
 #EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-logo="Telecine Premium.png" group-title="Filmes e Series",Telecine Premium
 rtmpe://r.livecast.cc/rl/ playpath=flash24sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream20.php
 
