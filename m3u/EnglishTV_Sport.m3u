@@ -26,6 +26,8 @@ http://storm1.dyndns.info:80/live?channelId=78&uid=1318&deviceUser=22davor222&de
 http://storm1.dyndns.info:80/live?channelId=80&uid=1318&deviceUser=22davor222&devicePass=srbija111
 #EXTINF:-1,bt Sport 1
 http://storm1.dyndns.info:80/live?channelId=82&uid=1318&deviceUser=22davor222&devicePass=srbija111
+#EXTINF:-1,Test Sport 1
+rtmp://rtmp.popeoftheplayers.eu:1935/redirect app=redirect swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=1&width=700&height=450 playpath=1
 
 
 
