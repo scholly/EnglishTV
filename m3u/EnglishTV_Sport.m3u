@@ -24,6 +24,37 @@ http://stream6.dyndns.tv:8888/live?channelId=262&uid=3699&deviceUser=stalkerNARO
 http://stream6.dyndns.tv:8888/live?channelId=263&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
 #EXTINF: Fox Sports 5
 http://stream6.dyndns.tv:8888/live?channelId=264&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+
+#EXTINF:-1,SkySports 1
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/1.ts
+#EXTINF:-1,SkySports 1 (Backup)
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/140.ts
+#EXTINF:-1,SkySports 2
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/2.ts
+#EXTINF:-1,SkySports 2 (Backup)
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/141.ts
+#EXTINF:-1,SkySports 3
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/3.ts
+#EXTINF:-1,SkySports 3 (Backup)
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/142.ts
+#EXTINF:-1,SkySports 4
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/4.ts
+#EXTINF:-1,SkySports 4 (Backup)
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/143.ts
+#EXTINF:-1,SkySports 5
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/5.ts
+#EXTINF:-1,SkySports 5 (Backup)
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/144.ts
+#EXTINF:-1,SkySports F1
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/6.ts
+#EXTINF:-1,SkySports F1 (Backup)
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/145.ts
+#EXTINF:-1,SkySports News
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/7.ts
+#EXTINF:-1,SkySports News (Backup)
+http://iptv.wssiptv.com:80/live/WSSVIP/HKDFIUH340dasf9/146.ts
+
+
 #EXTINF:1,Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
 
