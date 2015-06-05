@@ -2,7 +2,7 @@
 #EXTINF:0, Updated 4 June 2015
 
 #EXTINF:1,Sky SPORTS 1 test
-rtmpe://134.19.185.203:1935/livedge app=livedge swfurl=http://player.hdcast.org/_.swf pageurl=u=sskys1&vw=640&vh=400&domain=www.streamking.org live=1 playpath=sskys1 token=Fo5_n0w?U.rA6l3-70w47ch
+rtmpe://134.19.185.203:1935/livedge app=livedge swfurl=http://player.hdcast.org/_.swf pageurl=http://www.hdcast.org/embedlive4.php?u=sskys1&vw=640&vh=400&domain=www.streamking.org live=1 playpath=sskys1 token=Fo5_n0w?U.rA6l3-70w47ch
 
 #EXTINF:1,Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
