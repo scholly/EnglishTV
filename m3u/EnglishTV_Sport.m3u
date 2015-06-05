@@ -4,12 +4,26 @@
 #EXTINF:1,Sky SPORTS 1 testb
 rtmp://31.220.0.206:1935/live/_definst_/s11s app=live swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=s11s&vw=620&vh=490 Playpath=s11s Token=Hc2a3c950a9c4148db9c1c43410c116975bf727963256b48f797ea5e5c3c538eef47118da
 
-#EXTINF:-1,SKY Sport 1 
-http://maca.mine.nu/stalkerxy/xystalker/658.ch 
-
-#EXTINF:-1,SKY Sport 2 
-http://maca.mine.nu/stalkerxy/xystalker/657.ch 
-
+#EXTINF:1, Sky SPORTS 1HD
+http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 2HD
+http://195.154.227.38:1935/live/skysports2lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 3HD
+http://195.154.227.38:1935/live/skysports3lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 4HD
+http://195.154.227.38:1935/live/skysports4lsh/anis_sat.m3u8
+#EXTINF:1,Sky SPORTS 5HD
+http://195.154.227.38:1935/live/skysports5lsh/anis_sat.m3u8
+#EXTINF: Fox Sports 1
+http://stream6.dyndns.tv:8888/live?channelId=260&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 2
+http://stream6.dyndns.tv:8888/live?channelId=261&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 3
+http://stream6.dyndns.tv:8888/live?channelId=262&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF:Fox Sports 4
+http://stream6.dyndns.tv:8888/live?channelId=263&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
+#EXTINF: Fox Sports 5
+http://stream6.dyndns.tv:8888/live?channelId=264&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
 #EXTINF:1,Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
 
