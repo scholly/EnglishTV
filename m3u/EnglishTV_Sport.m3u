@@ -14,6 +14,14 @@ http://195.154.227.38:1935/live/skysports3lsh/anis_sat.m3u8
 http://195.154.227.38:1935/live/skysports4lsh/anis_sat.m3u8
 #EXTINF:1,Sky SPORTS 5HD
 http://195.154.227.38:1935/live/skysports5lsh/anis_sat.m3u8
+
+#EXTINF:-1, Sky sports 1
+http://185.56.30.127:8082/TV4284
+#EXTINF:-1, Sky sports 3
+http://185.56.30.127:8082/TV4286
+#EXTINF:-1, Sky sports 4
+http://185.56.30.127:8082/TV4130
+
 #EXTINF:1, Fox Sports 1
 http://stream6.dyndns.tv:8888/live?channelId=260&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
 #EXTINF:1, Fox Sports 2
