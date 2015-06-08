@@ -11,7 +11,7 @@ rtmp://158.85.70.79/flash app=flash swfurl=http://static3.sawlive.tv/player.swf 
 rtmp://158.85.70.79/flash/21085?MTQzMzc0MDU5MTthMTA1NmUyZjZiZjhkZDRjMTc3YWI5ZTJlYTcxNmIzOQ== swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/QzNTFlMzVjMTMzMjAwYjYxMWZmYw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpkMzI1MmU1OWVkNm 
 
 #EXTINF:1,Sky SPORTS 2 test 0.1
-rtmp://50.7.28.234/flash app=flash swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/E2NTY0ZGQxMzQ4NjczODg2ODQ3OTRk/c3N4MjIyOjg5MzcyNjgyMjVhYjFjMjNlNjlhMDk1NGJjZWI1YjY4OjIwMTcxOTUyMT live=1 playpath=21068?MTQzMzc0NTM3NjtjYTlhMDA0OTQzNTM2MjFjN2Q5NWI0NWYwN2RmOWVhMQ==
+rtmp://50.7.28.98/flash app=flash swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/k0ZmM4NzcwZWMxMzM0M2Q5OWY2YmY1/c3N4MjIyOjg5MzcyNjgyMjVhYjFjMjNlNjlhMDk1NGJjZWI1YjY4OjE0YzY1YTNjMD live=1 playpath=21068?MTQzMzc0NzA5MTs1NjU1NzYxYmRjZGQ4ZjcyZDBhZDk5YmI1Yjc3ZjdmMg==
 
 #EXTINF:1, Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
