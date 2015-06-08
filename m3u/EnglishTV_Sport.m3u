@@ -7,8 +7,13 @@ rtmp://31.220.0.206/redirect/ app=redirect/ swfUrl=http://p.jwpcdn.com/6/12/jwpl
 #EXTINF:1,Sky SPORTS 1 test 0.8
 rtmp://173.192.81.172/flash app=flash swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/IwZWY1NWViOGMyOGEyYWI0NDlkMw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpmMTBiYTdkM2M3Yz playpath=21085?MTQzMzY1MTg3MztjMWQ4OWUyNDVlNzNhYjJmYzdhNmI3M2UwZGQzODJkMA== token=sv1
 
-#EXTINF:1,Sky SPORTS 1 test 0.9
+#EXTINF:1,Sky SPORTS 1 test 0.11
+rtmp://158.85.70.79/flash app=flash swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/QzNTFlMzVjMTMzMjAwYjYxMWZmYw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpkMzI1MmU1OWVkNm live=1 playpath=21085?MTQzMzc0MDU5MTthMTA1NmUyZjZiZjhkZDRjMTc3YWI5ZTJlYTcxNmIzOQ==
+
+#EXTINF:1,Sky SPORTS 1 test 0.12
 rtmp://158.85.70.79/flash/21085?MTQzMzc0MDU5MTthMTA1NmUyZjZiZjhkZDRjMTc3YWI5ZTJlYTcxNmIzOQ== swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/QzNTFlMzVjMTMzMjAwYjYxMWZmYw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpkMzI1MmU1OWVkNm 
+
+
 
 #EXTINF:1, Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
