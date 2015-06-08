@@ -4,11 +4,11 @@
 #EXTINF:1,Sky SPORTS 4 testc
 rtmp://31.220.0.206/redirect/ app=redirect/ swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=ssx4&vw=620&vh=490 playpath=ssx4 live=1 token=%Zrey(nKa@#Z
 
-#EXTINF:1,Sky SPORTS 1 test 0.1
-rtmp://173.192.81.172/flash app=flash swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/IwZWY1NWViOGMyOGEyYWI0NDlkMw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpmMTBiYTdkM2M3Yz playpath=embed/watch/IwZWY1NWViOGMyOGEyYWI0NDlkMw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpmMTBiYTdkM2M3Yz
+#EXTINF:1,Sky SPORTS 1 test 0.3
+rtmp://173.192.81.172/flash app=flash swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/IwZWY1NWViOGMyOGEyYWI0NDlkMw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpmMTBiYTdkM2M3Yz 
 
-#EXTINF:1,Sky SPORTS 1 test 0.2
-rtmp://173.192.81.172/flash app=flash swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/IwZWY1NWViOGMyOGEyYWI0NDlkMw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpmMTBiYTdkM2M3Yz Playpath=B21085?MTQzMzY1MTg3MztjMWQ4OWUyNDVlNzNhYjJmYzdhNmI3M2UwZGQzODJkMA==
+#EXTINF:1,Sky SPORTS 1 test 0.3
+rtmp://173.192.81.172/flash app=flash swfUrl=http://static3.sawlive.tv/player.swf pageUrl=http://sawlive.tv/embed/watch/IwZWY1NWViOGMyOGEyYWI0NDlkMw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpmMTBiYTdkM2M3Yz 
 
 #EXTINF:1, Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
