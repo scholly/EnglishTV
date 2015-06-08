@@ -14,7 +14,6 @@ rtmp://158.85.70.79/flash app=flash swfurl=http://static3.sawlive.tv/player.swf 
 rtmp://158.85.70.79/flash/21085?MTQzMzc0MDU5MTthMTA1NmUyZjZiZjhkZDRjMTc3YWI5ZTJlYTcxNmIzOQ== swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/QzNTFlMzVjMTMzMjAwYjYxMWZmYw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpkMzI1MmU1OWVkNm 
 
 
-
 #EXTINF:1, Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
 #EXTINF:1,Sky SPORTS 2HD
