@@ -17,7 +17,7 @@ rtmp://50.7.28.98/flash app=flash swfurl=http://static3.sawlive.tv/player.swf pa
 rtmp://31.220.0.206/redirect/ app=redirect/ swfurl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageurl=http://reytv.co/embedu.php?live=s33s&vw=620&vh=490 live=1 playpath=s33s token=%Zrey(nKa@#Z
 
 #EXTINF:1,Sky SPORTS 1 test 0.15
-rtmp://rtmp.popeoftheplayers.eu:1935/redirect app=redirect swfurl=http://popeoftheplayers.eu/atdedead.swf pageurl=http://popeoftheplayers.eu/crichd.php?id=1&width=700&height=450 live=1 playpath=1 token=XXVOj1a8y100gl
+rtmp://rtmp.popeoftheplayers.eu:1935/redirect app=redirect swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=1&width=700&height=450 live=1 playpath=1 token=#atd%#$ZH
 
 #EXTINF:1, Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
