@@ -31,8 +31,8 @@ rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplay
 #EXTINF:1,Sky SPORTS 1 test 0.27
 rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1 token=_f38l8fs7 
 
-#EXTINF:1,Sky SPORTS 1 test 0.28
-rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php live=1 Playpath=hdlivess1 token=_f38l8fs7 
+#EXTINF:1,Sky SPORTS 1 test 0.29
+rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php live=1 Playpath=hdlivess1 token=NXoJ9saSFsU4MH5vEmdlH2iVSc+W3wUHDf+pwNAmIiA=
 
 
 
