@@ -22,6 +22,9 @@ rtmp://rtmp.popeoftheplayers.eu:1935/redirect app=redirect swfUrl=http://popeoft
 #EXTINF:1,Sky SPORTS 1 test 0.18
 rtmpe://lb.miplayer.net/goLive app=goLive?swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=0 Playpath=hdlivess1_f38l8fs7 token=c2VydmVyX3RpbWU9Ni85LzIwMTUgMjo1ODoyMCBBTSZoYXNoX3ZhbHVlPW5TQnFqYWNZd2hhU1o5N1FTQWVSK2c9PSZ2YWxpZG1pbnV0ZXM9NQ==/
 
+#EXTINF:1,Sky SPORTS 1 test 0.19
+rtmpe://lb.miplayer.net:1935/goLive/hdlivess1_f38l8fs7 app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=0 Playpath=hdlivess1_f38l8fs7
+
 #EXTINF:1, Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
 #EXTINF:1,Sky SPORTS 2HD
