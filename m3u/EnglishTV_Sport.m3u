@@ -19,11 +19,14 @@ rtmp://31.220.0.206/redirect/ app=redirect/ swfurl=http://p.jwpcdn.com/6/12/jwpl
 #EXTINF:1,Sky SPORTS 1 test 0.15
 rtmp://rtmp.popeoftheplayers.eu:1935/redirect app=redirect swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=1&width=700&height=450 live=1 playpath=1 token=#atd%#$ZH
 
-#EXTINF:1,Sky SPORTS 1 test 0.20
-rtmpe://lb.miplayer.net/goLive app=goLive?swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1_f38l8fs7 token=c2VydmVyX3RpbWU9Ni85LzIwMTUgMjo1ODoyMCBBTSZoYXNoX3ZhbHVlPW5TQnFqYWNZd2hhU1o5N1FTQWVSK2c9PSZ2YWxpZG1pbnV0ZXM9NQ==/
+#EXTINF:1,Sky SPORTS 1 test 0.22
+rtmpe://lb.miplayer.net/goLive app=goLive? swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1_f38l8fs7 token=c2VydmVyX3RpbWU9Ni85LzIwMTUgMjo1ODoyMCBBTSZoYXNoX3ZhbHVlPW5TQnFqYWNZd2hhU1o5N1FTQWVSK2c9PSZ2YWxpZG1pbnV0ZXM9NQ==/
 
-#EXTINF:1,Sky SPORTS 1 test 0.21
-rtmpe://lb.miplayer.net:1935/goLive/hdlivess1_f38l8fs7 app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1_f38l8fs7
+#EXTINF:1,Sky SPORTS 1 test 0.23
+rtmpe://lb.miplayer.net:1935/goLive/hdlivess1_f38l8fs7 app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php live=1 Playpath=hdlivess1_f38l8fs7
+
+#EXTINF:1,Sky SPORTS 1 test 0.24
+rtmpe://lb.miplayer.net/goLive app=goLive? swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1_f38l8fs7 token=c2VydmVyX3RpbWU9Ni85LzIwMTUgMjo1ODoyMCBBTSZoYXNoX3ZhbHVlPW5TQnFqYWNZd2hhU1o5N1FTQWVSK2c9PSZ2YWxpZG1pbnV0ZXM9NQ==/
 
 #EXTINF:1, Sky SPORTS 1HD
 http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
