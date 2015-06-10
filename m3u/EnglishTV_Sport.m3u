@@ -34,7 +34,7 @@ rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplay
 #EXTINF:1,Sky SPORTS 1 test 0.29
 rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php live=1 Playpath=hdlivess1 token=NXoJ9saSFsU4MH5vEmdlH2iVSc+W3wUHDf+pwNAmIiA=
 
-#EXTINF:1,Sky SPORTS 1 test 0.30
+#EXTINF:1,Sky SPORTS 1 test 0.31
 rtmp://178.18.31.53:443/liverepeater app=liverepeater swfUrl=http://bernardotv.club/player6.swf pageUrl=http://biggestplayer.me/streamcr.php?id=195085&width=620&height=490 live=1 playpath=195085 token=deadsoon%%7
 
 #EXTINF:1, Sky SPORTS 1HD
