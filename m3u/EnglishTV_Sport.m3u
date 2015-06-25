@@ -1,5 +1,20 @@
 #EXTM3U
-#EXTINF:0, Updated 5 June 2015
+#EXTINF:0, Updated 25 June 2015
+
+#EXTINF:1,Sky SPORTS 1 test 0
+rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+#EXTINF:1,Sky SPORTS 2 test 0
+rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+#EXTINF:1,Sky SPORTS 3 test 0
+rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+#EXTINF:1,Sky SPORTS 4 test 0
+mpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
+
+#EXTINF:1,Sky SPORTS 4 test 0
+rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
 
 #EXTINF:1,Sky SPORTS 4 testc
 rtmp://31.220.0.206/redirect/ app=redirect/ swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=ssx4&vw=620&vh=490 playpath=ssx4 live=1 token=%Zrey(nKa@#Z
