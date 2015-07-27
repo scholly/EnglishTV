@@ -1,131 +1,201 @@
 #EXTM3U
-#EXTINF:0, Updated 25 June 2015
+#EXTINF:0, Updated 27 July 2015
 
-#EXTINF:1,Sky SPORTS 1 test 1
-rtmpe://31.220.0.198/live playpath=sky1 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 pageUrl=http://www.pvtserverz.com/
+#EXTINF:-1,[COLOR blue][I][B]--- 25-07-2015 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 25-07-2015--[/COLOR]
 
-#EXTINF:1,Sky SPORTS 2 test 0
-rtmpe://31.220.0.198/live playpath=sky2 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
-
-#EXTINF:1,Sky SPORTS 3 test 0
-rtmpe://31.220.0.198/live playpath=sky3 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
-
-#EXTINF:1,Sky SPORTS 4 test 0
-mpe://31.220.0.198/live playpath=sky4 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
-
-#EXTINF:1,Sky SPORTS 4 test 0
-rtmpe://31.220.0.198/live playpath=sky5 swfUrl=http://www.pvtserverz.com/player/player.swf live=1 timeout=13 pageUrl=http://www.pvtserverz.com/
-
-#EXTINF:1,Sky SPORTS 4 testc
-rtmp://31.220.0.206/redirect/ app=redirect/ swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://reytv.co/embedu.php?live=ssx4&vw=620&vh=490 playpath=ssx4 live=1 token=%Zrey(nKa@#Z
-
-#EXTINF:1,Sky SPORTS 1 test 0.11
-rtmp://158.85.70.79/flash app=flash swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/QzNTFlMzVjMTMzMjAwYjYxMWZmYw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpkMzI1MmU1OWVkNm live=1 playpath=21085?MTQzMzc0MDU5MTthMTA1NmUyZjZiZjhkZDRjMTc3YWI5ZTJlYTcxNmIzOQ==
-
-#EXTINF:1,Sky SPORTS 1 test 0.12
-rtmp://158.85.70.79/flash/21085?MTQzMzc0MDU5MTthMTA1NmUyZjZiZjhkZDRjMTc3YWI5ZTJlYTcxNmIzOQ== swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/QzNTFlMzVjMTMzMjAwYjYxMWZmYw__/c3gxeDpmNGQzZjNkMDcwYWU4YzdlNGUyY2U2YTlmZTFlOTNmNjpkMzI1MmU1OWVkNm 
-
-#EXTINF:1,Sky SPORTS 2 test 0.2
-rtmp://50.7.28.98/flash app=flash swfurl=http://static3.sawlive.tv/player.swf pageurl=http://sawlive.tv/embed/watch/k0ZmM4NzcwZWMxMzM0M2Q5OWY2YmY1/c3N4MjIyOjg5MzcyNjgyMjVhYjFjMjNlNjlhMDk1NGJjZWI1YjY4OjE0YzY1YTNjMD live=1 playpath=21068?MTQzMzc0NzA5MTs1NjU1NzYxYmRjZGQ4ZjcyZDBhZDk5YmI1Yjc3ZjdmMg==
-
-#EXTINF:1,Sky SPORTS 3 test 0.1
-rtmp://31.220.0.206/redirect/ app=redirect/ swfurl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageurl=http://reytv.co/embedu.php?live=s33s&vw=620&vh=490 live=1 playpath=s33s token=%Zrey(nKa@#Z
-
-#EXTINF:1,Sky SPORTS 1 test 0.15
-rtmp://rtmp.popeoftheplayers.eu:1935/redirect app=redirect swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=1&width=700&height=450 live=1 playpath=1 token=#atd%#$ZH
-
-#EXTINF:1,Sky SPORTS 1 test 0.22
-rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1_f38l8fs7 token=c2VydmVyX3RpbWU9Ni85LzIwMTUgMjo1ODoyMCBBTSZoYXNoX3ZhbHVlPW5TQnFqYWNZd2hhU1o5N1FTQWVSK2c9PSZ2YWxpZG1pbnV0ZXM9NQ==/
-
-#EXTINF:1,Sky SPORTS 1 test 0.25
-rtmpe://lb.miplayer.net/goLive/hdlivess1_f38l8fs7 app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php live=1 Playpath=hdlivess1_f38l8fs7
-
-#EXTINF:1,Sky SPORTS 1 test 0.26
-rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1_f38l8fs7 token=c2VydmVyX3RpbWU9Ni85LzIwMTUgMjo1ODoyMCBBTSZoYXNoX3ZhbHVlPW5TQnFqYWNZd2hhU1o5N1FTQWVSK2c9PSZ2YWxpZG1pbnV0ZXM9NQ==/
-
-#EXTINF:1,Sky SPORTS 1 test 0.27
-rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php?width=620&height=490&id=hdlivess1&autoplay=true&strech=exactfit live=1 Playpath=hdlivess1 token=_f38l8fs7 
-
-#EXTINF:1,Sky SPORTS 1 test 0.29
-rtmpe://lb.miplayer.net/goLive app=goLive swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://miplayer.net/embedplayer.php live=1 Playpath=hdlivess1 token=NXoJ9saSFsU4MH5vEmdlH2iVSc+W3wUHDf+pwNAmIiA=
-
-#EXTINF:1,Sky SPORTS 1 test 0.31
-rtmp://178.18.31.53:443/liverepeater app=liverepeater swfUrl=http://bernardotv.club/player6.swf pageUrl=http://biggestplayer.me/streamcr.php?id=195085&width=620&height=490 live=1 playpath=195085 token=deadsoon%%7
-
-#EXTINF:1, Sky SPORTS 1HD
-http://195.154.227.38:1935/live/skysports1lsh/anis_sat.m3u8
-#EXTINF:1,Sky SPORTS 2HD
-http://195.154.227.38:1935/live/skysports2lsh/anis_sat.m3u8
-#EXTINF:1,Sky SPORTS 3HD
-http://195.154.227.38:1935/live/skysports3lsh/anis_sat.m3u8
-#EXTINF:1,Sky SPORTS 4HD
-http://195.154.227.38:1935/live/skysports4lsh/anis_sat.m3u8
-#EXTINF:1,Sky SPORTS 5HD
-http://195.154.227.38:1935/live/skysports5lsh/anis_sat.m3u8
-
-#EXTINF:-1, Sky sports 1
-http://185.56.30.127:8082/TV4284
-#EXTINF:-1, Sky sports 3
-http://185.56.30.127:8082/TV4286
-#EXTINF:-1, Sky sports 4
-http://185.56.30.127:8082/TV4130
-
-#EXTINF:1, Fox Sports 1
-http://stream6.dyndns.tv:8888/live?channelId=260&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
-#EXTINF:1, Fox Sports 2
-http://stream6.dyndns.tv:8888/live?channelId=261&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
-#EXTINF:1, Fox Sports 3
-http://stream6.dyndns.tv:8888/live?channelId=262&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
-#EXTINF:1,Fox Sports 4
-http://stream6.dyndns.tv:8888/live?channelId=263&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
-#EXTINF:1, Fox Sports 5
-http://stream6.dyndns.tv:8888/live?channelId=264&uid=3699&deviceUser=stalkerNARODNATV&devicePass=fm9ytmf7q
-
-#EXTINF:-1,Sky Sports 1
-http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8?wowzasessionid=997050159
-#EXTINF:-1,Sky Sports 2
-http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8?wowzasessionid=283216652
-#EXTINF:-1,Sky Sports 3
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8?wowzasessionid=1973401270
-#EXTINF:-1,Sky Sports 4
-http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8?wowzasessionid=1131031689
-#EXTINF:-1,Sky Sports 5
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8?wowzasessionid=1505515574
+#EXTINF:-1,[COLOR yellow]-- Temporary Channels --[/COLOR]
+http://0.0.0.0:1234
+[COLOR red]temporary offline[/COLOR]
+#EXTINF:-1,[COLOR yellow]--- UK CHANNELS ---[/COLOR]
+http://0.0.0.0:1234
 
 
-#EXTINF:1,Sky SPORTS 1HD
-http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8
+#EXTINF:-1,BBC One London [COLOR red]temporary offline[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.1:1234
+ 
+#EXTINF:-1,BBC One Scotland [COLOR red]temporary offline[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.2:1234
+ 
+#EXTINF:-1,BBC Two England [COLOR red]temporary offline[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.3:1234
+ 
+#EXTINF:-1,BBC Three [COLOR red]temporary offline[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.4:1234
+ 
+#EXTINF:-1,BBC Four [COLOR red]temporary offline[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.5:1234
 
-#EXTINF:1,Sky SPORTS 2HD
-http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+#EXTINF:-1,ITV 1 [COLOR red]temporary offline[/COLOR]
+http://82.135.224.134:80/udp/239.100.3.6:1234
 
-#EXTINF:1,Sky SPORTS 3HD
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+#EXTINF:0,BBC 1 
+http://teleboy.customers.cdn.iptv.ch/4006/2290000/index.m3u8
 
-#EXTINF:1,Sky SPORTS 4HD
-http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+#EXTINF:0,BBC 2 
+http://teleboy.customers.cdn.iptv.ch/4007/2290000/index.m3u8
 
-#EXTINF:1,Sky SPORTS 5HD
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+#EXTINF:0,BBC 3/CBBC
+http://teleboy.customers.cdn.iptv.ch/4008/2290000/index.m3u8
 
-#EXTINF:-1,Sky Sport 1
-http://storm1.dyndns.info:80/live?channelId=75&uid=1318&deviceUser=22davor222&devicePass=srbija111
-#EXTINF:-1,Sky Sport 2
-http://storm1.dyndns.info:80/live?channelId=76&uid=1318&deviceUser=22davor222&devicePass=srbija111
-#EXTINF:-1,Sky Sport 4
-http://storm1.dyndns.info:80/live?channelId=78&uid=1318&deviceUser=22davor222&devicePass=srbija111
-#EXTINF:-1,Sky Sports F1 HD 
-http://storm1.dyndns.info:80/live?channelId=80&uid=1318&deviceUser=22davor222&devicePass=srbija111
-#EXTINF:-1,bt Sport 1
-http://storm1.dyndns.info:80/live?channelId=82&uid=1318&deviceUser=22davor222&devicePass=srbija111
-#EXTINF:-1,Test Sport 1
-rtmp://rtmp.popeoftheplayers.eu:1935/redirect app=redirect swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=1&width=700&height=450 playpath=1
+#EXTINF:0,ITV
+http://teleboy.customers.cdn.iptv.ch/4018/2290000/index.m3u8
+
+#EXTINF:0,ITV 2
+http://teleboy.customers.cdn.iptv.ch/4005/2290000/index.m3u8
+
+#EXTINF:0,ITV 3
+http://teleboy.customers.cdn.iptv.ch/4025/2290000/index.m3u8
+
+#EXTINF:0,Channel4 
+http://teleboy.customers.cdn.iptv.ch/4022/2290000/index.m3u8
+
+#EXTINF:-1, E4 HD
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]--- KIDS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, Tom and Jerry Classic
+rtmp://208.53.180.242/ctv playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&itvjonas pageUrl=http://carolineoliveira.com.br/tvamigos/tomejerry.html
+
+
+#EXTINF:-1,[COLOR yellow]--- MUSIC ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1, Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+
+#EXTINF:-1,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+
+#EXTINF:-1,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:-1,Kiss Tv Music
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+
+#EXTINF:-1,[COLOR yellow]--- MOVIES / TV SHOWS ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, Film4 HD
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+
+#EXTINF:-1, HBO Plus EN
+rtmp://94.102.49.207/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf live=1 pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free token=#ed%h0#w18623jsda6523lDGDVe
 
 
 
+#EXTINF:-1,[COLOR yellow]--- SPORT ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1, Sky Sports 1 HD 
+http://144.76.3.83/sky_sports1gb.m3u8?
+
+#EXTINF:-1, Sky Sports 1 HD (stream 2)
+rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+ 
+#EXTINF:-1, Sky Sports 2 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Sky Sports 3 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Sky Sports 4 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Sky Sports 5 
+rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, BT Sport / ESPN
+rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, WWE
+rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, BT sport 2 HD 
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Euro sport 
+rtmp://80.82.64.140:443/liverepeater playpath=9 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1, Eurosport 1 (stream 2)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1, Euro sport HD 
+rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:0, SKY SPORTS 1 (stream 2)
+http://usa.01.cdnstreams.in:8081/view/ch06/playlist.m3u8
+
+#EXTINF:0, SKY SPORTS 2 (stream 2)
+http://usa.01.cdnstreams.in:8081/view/ch07/playlist.m3u8
+
+#EXTINF:0, SKY SPORTS 3 (stream 2)
+http://usa.01.cdnstreams.in:8081/view/ch15/playlist.m3u8
+
+#EXTINF:0, SKY SPORTS 4 (stream 2)
+http://usa.01.cdnstreams.in:8081/view/ch16/playlist.m3u8
+
+#EXTINF:0, SKY SPORTS 5 (stream 2)
+http://usa.01.cdnstreams.in:8081/view/ch09/playlist.m3u8
+
+#EXTINF:0, BT SPORT 1 (stream 2)
+http://usa.01.cdnstreams.in:8081/view/ch08/playlist.m3u8
+
+#EXTINF:0,BT SPORT 2 (stream 2)
+http://usa.01.cdnstreams.in:8081/view/ch14/playlist.m3u8
 
 
+#EXTINF:-1,[COLOR yellow]--- NEWS ---[/COLOR]
+http://0.0.0.0:1234
 
+#EXTINF:-1, Sky News International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
 
 
 
