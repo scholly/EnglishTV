@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:0, Updated 4 Aug 2015
+#EXTM3U
+#EXTINF:-1,UK: Sky Sports 1
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/548.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/547.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/546.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/545.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/544.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/538.ts
+#EXTINF:-1,UK: Sky Sports F1
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/539.ts
+#EXTINF:-1,UK: Premier Sports
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/513.ts
+#EXTINF:-1,UK: Setanta Sports
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/484.ts
+#EXTINF:-1,UK: Sky Eurosport 1
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/541.ts
+#EXTINF:-1,UK: Sky Eurosport 2
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/540.ts
+#EXTINF:-1,UK: Sky BT Sport 1
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/543.ts
+#EXTINF:-1,UK: Sky BT Sport 2
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/542.ts
+#EXTINF:-1,UK: Sky Liverpool FC TV
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/536.ts
+#EXTINF:-1,UK: Sky Chelsea TV
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/537.ts
+#EXTINF:-1,UK: Sky MUTV
+http://ipsat.dvrdns.org:8000/live/testo1/testo1/535.ts
+
 #EXTINF:0, Updated 3 Aug 2015
 
 EXTINF:-1,STENTE SPORT
