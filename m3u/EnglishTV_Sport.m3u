@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, Updated 4 Aug 2015
 
-EXTINF:-1,UK: Sky Sports 1 HD
+#EXTINF:-1,UK: Sky Sports 1 HD
 http://bit.ly/1KMDNik
 #EXTINF:-1,UK: Sky Sports 2 HD
 http://bit.ly/1hgnRZ6
