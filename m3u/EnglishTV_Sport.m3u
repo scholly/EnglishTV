@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTINF:0, Updated 4 Aug 2015
 
+#EXTINF:-1,- – – – – – SPORT – – – – – –
+http://proffiptv.mine.nu:15003/live/morgan/morgan/161.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://proffiptv.mine.nu:15003/live/morgan/morgan/29.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://proffiptv.mine.nu:15003/live/morgan/morgan/30.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://proffiptv.mine.nu:15003/live/morgan/morgan/31.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://proffiptv.mine.nu:15003/live/morgan/morgan/32.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://proffiptv.mine.nu:15003/live/morgan/morgan/33.ts
+#EXTINF:-1,FOX Sport HD
+http://proffiptv.mine.nu:15003/live/morgan/morgan/35.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://proffiptv.mine.nu:15003/live/morgan/morgan/36.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+
 #EXTINF:-1,[COLOR blue][I][B]--- 02-08-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 02-08-2015--[/COLOR] 
 
