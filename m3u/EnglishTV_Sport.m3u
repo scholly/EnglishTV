@@ -1,702 +1,136 @@
 #EXTM3U
-#EXTINF:0, Updated 4 Aug 2015
-
-#EXTINF:-1,UK: Sky Sports 1 HD
-http://bit.ly/1KMDNik
-#EXTINF:-1,UK: Sky Sports 2 HD
-http://bit.ly/1hgnRZ6
-#EXTINF:-1,UK: Sky Sports 3 HD
-http://bit.ly/1UjmAPm
-#EXTINF:-1,UK: Sky Sports 4 HD
-http://bit.ly/1JIFPyO
-#EXTINF:-1,UK: Sky Sports 5 HD
-http://bit.ly/1DlPJ8j
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://bit.ly/1OLXAMN
-#EXTINF:-1,UK: Sky Sports F1
-http://bit.ly/1E57XWr
-#EXTINF:-1,UK: Premier Sports
-http://bit.ly/1Il3GAa
-#EXTINF:-1,UK: Setanta Sports
-http://bit.ly/1MIEZDT
-#EXTINF:-1,UK: Sky Eurosport 1 HD
-http://bit.ly/1M7Mm7R
-#EXTINF:-1,UK: Sky Eurosport 2 HD
-http://bit.ly/1IBJ1XB
-#EXTINF:-1,UK: Sky BT Sport 1
-http://bit.ly/1SEjOXr
-#EXTINF:-1,UK: Sky BT Sport 2
-http://bit.ly/1DlPTwv
-#EXTINF:-1,UK: Sky Liverpool FC TV HD
-http://bit.ly/1UjmJSI
-#EXTINF:-1,UK: Sky Chelsea TV HD
-http://bit.ly/1Il3Rvd
-
-#EXTINF:-1,[COLOR blue][I][B]--- 02-08-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 02-08-2015--[/COLOR] 
-
-#EXTINF:-1,[COLOR yellow]-- Temporary Sports Channels --[/COLOR]
-http://0.0.0.0:1234
-
-#EXTINF:-1,[COLOR yellow]-- International Sports Channels --[/COLOR]
-http://0.0.0.0:1234
-
-
-#EXTINF:-1,Sportal TV HD
-http://pri.cdn.bg:2001/fls/sportal_tv_hd.stream/playlist.m3u8
-
-#EXTINF:-1, ESPN UK FOXSPORT 
+#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
+#EXTINF:0,ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-
-#EXTINF:-1, ESPN 2 UK 
+#EXTINF:0,abc hd
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,CBS HD
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,24/7Comedy Movies
+http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
+#EXTINF:0,24/7HD Movies 1
+http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
+#EXTINF:0,ABC 22HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,ABC Family
+http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
+#EXTINF:0,AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,beIN Sport (Spanish)
+http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+#EXTINF:0,beIN Sport (USA)
+http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+#EXTINF:0,BET
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
+#EXTINF:0,Bravo
+http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:0,CBS HD (WHIO 7)
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,CNN USA HD
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+#EXTINF:0,CNN USA SD
+http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,Crime & Investigation
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
+#EXTINF:0,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:0,Disney Channel
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:0,ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN SD
+http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+#EXTINF:0,ESPN 2HD
+http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+#EXTINF:0,ESPN 2SD
 http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-
-#EXTINF:-1, BARÇA TV 
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
-
-#EXTINF:-1, BARÇA TV HD 
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8 
-
-#EXTINF:-1, LIVERPOOL TV 
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
-
-#EXTINF:-1, CHELSEA TV 
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
-
-#EXTINF:0, FOX SPORT USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
-
-#EXTINF:0, SPORT USA1
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
-
-#EXTINF:0, NBC GOLF USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
-
-#EXTINF:0, SPORT USA2
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
-
-#EXTINF:0, NBA USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
-
-#EXTINF:0, NBC SPORT
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
-
-#EXTINF:0, Super Sport News
-http://80.80.160.201/http_livestr.m3u8?id=ssnews
-
-#EXTINF:0, SUPER SPORT HD1
-http://bit.ly/1h7ph8k
-
-#EXTINF:0, SUPER SPORT HD2
-http://bit.ly/1OQlpUp
-
-#EXTINF:0, SUPER SPORT HD3
-http://bit.ly/1I3WTgh
-
-#EXTINF:0, SUPER SPORT HD4
-http://bit.ly/1LSLeDl
-
-#EXTINF:-1, SPORT1 (HOL) 
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:0, Sport Klub 3
-http://84.22.33.25/ss1/index.m3u8
-
-#EXTINF:-1, Fight Sport
-http://streamindo2.ddns.net/jhos/fight/asia/playlist.m3u8
-
-#EXTINF:-1, TVN Turbo Poland
-rtmp://178.16.220.163:1935/live/tvnturboaa
-
-#EXTINF:-1, NSPORT Poland
-rtmp://178.16.220.163:1935/live/n2sport 
-
-#EXTINF:-1, Iraqiya Sport (low)
-http://212.7.205.5:1935/sport/live/playlist.m3u8
-
-#EXTINF:-1, Turkmen Sport (low)
-rtmp://217.174.227.20/webtv/ch004_sd
-
-#EXTINF:-1, M4 Sport
-http://212.40.98.161/intlivedrm/mtva/mtv4live_international.smil/playlist.m3u8
-
-#EXTINF:-1, SuperTennis HD Italy
-http://109.87.164.11:8080/udp/238.0.16.63:1234
-
-#EXTINF:-1, DIGI SPORT 1
-rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1, DIGI SPORT 2
-rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1, DIGI SPORT 3
-rtmp://195.154.162.159:80/liverepeater playpath=128748 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
-
-#EXTINF:-1, Brodilo TV Russia
-http://brodilo.tv:8407
-
-#EXTINF:-1, Buraspor TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-
-#EXTINF:-1, ARENA SPORT
-http://118.97.167.19/jhos/arena//Playlist.m3u8
-
-#EXTINF:-1, SPORT 1 Germany
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, ESPN Brasil (very low quality)
-http://94.242.228.121:1935/live/espnbr/playlist.m3u8
- 
-#EXTINF:-1, Sky sports 1 HD 
-rtmp://80.82.64.140:443/liverepeater playpath=33 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, Sky sports 3 HD 
-rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, Sky sports 4 HD 
-rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, Sky sports 5 
-rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, BT sport 1 Espn 
-rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, WWE
-rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, BT sport 1 
-rtmp://80.82.64.140:443/liverepeater playpath=34 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, BT sport 2 HD 
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, Euro sport 
-rtmp://80.82.64.140:443/liverepeater playpath=9 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, Euro sport HD 
-rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1, ESPN 2 SD
-rtmp://kv2.ts33.net/sat/us152
-
-#EXTINF:-1, Fox Sports 3 HD China
-rtmp://kv2.ts33.net/sat/us162
-
-#EXTINF:-1, Eurosport DE 
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on 
-
-#EXTINF:-1, ESPN HD EN
-http://80.80.160.168/live/6/live.m3u8
-
-#EXTINF:-1, Eurosport Ru/En
-http://91.193.124.5:8000/eurosport
-
-#EXTINF:-1, Eurosport 2  Ru/En
-http://91.193.124.5:8000/eurosport2
-
-#EXTINF:-1, RSI la 2 Italia
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1, TVA Sport CANADA (French)
-rtmp://cp39414.live.edgefcs.net/live//event1@9756
-
-#EXTINF:-1, PTV Sports SD
-rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
-
-#EXTINF:-1, Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, SEVILLA FC SPAIN
-rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
-
-#EXTINF:-1 group-title="SPORTS", SPORTS TV TURKEY
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:-1, Motor Sport
-http://motorsport.hopto.org:8080/
-
-#EXTINF:-1, Auto Moto TV Gaz (RU)
-mms://100automoto.tv/100gaz
-
-#EXTINF:-1, PORSCHE CHANNEL
-mms://100automoto.tv/channel_porsche
-
-#EXTINF:-1, AutoSport TV
-mms://100automoto.tv/100livesport
-
-#EXTINF:-1, BMW CHANNEL Italia
-mms://100automoto.tv/bmw
-
-#EXTINF:0, Mercedes-Benz Channel
-mms://100automoto.tv/channel_mercedes
-
-#EXTINF:0, Auto Italia Channel
-mms://100automoto.tv/channel_italy
-
-#EXTINF:0, Cars & Sports
-mms://100automoto.tv/100livesport
-
-#EXTINF:-1 tvg-logo="BTN.png" group-title="All Sports", Big Ten Network HD
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-
-#EXTINF:-1,SPORT TIME TV (US)
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 1HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 2HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 3HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 4HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 5HD  GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 6HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-#EXTINF:-1 group-title="SPORTS",SPORT  SPORT TIME TV 7HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
-
-#EXTINF:-1,SPORTSNET 360HD CANADA HD
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
-#EXTINF:-1,SPORTTV 1 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c pageUrl=http://sharecast.to/
- 
-#EXTINF:-1,SPORTTV 2 Portugal
-rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
-
-#EXTINF:-1, TRT SPOR SD 
-http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8 
-
-#EXTINF:0, TRT SPOR HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
-
-#EXTINF:-1,aSpor Tur  
-http://rtmp.turkuvazgroup.net/aspor/aspor3/playlist.m3u8
-
-#EXTINF:0, KAZSPORT
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-
-#EXTINF:-1,Sports Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-
-#EXTINF:0,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-
-#EXTINF:-1,Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-
-#EXTINF:-1, IRAK Iraqiya Sport
-http://212.7.205.5:1935/sport/live/playlist.m3u8
-
-#EXTINF:-1, KTV Sport Extra ARABIC
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
-
-#EXTINF:-1, KTV Sport Plus ARABIC
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
-
-#EXTINF:-1,Auto HD 576P (China)
-rtmp://182.92.189.193/live/ playpath=h_auto_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
-
-#EXTINF:-1, Moldova Sport HD
-http://87.248.160.8/edge/smil:boet/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="cdN.png", CDN Sports esp
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:-1,Antena 3 Sports
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1, Sport 1 Russia
-http://hls.cn.ru/streaming/sport1/16/tvrec/playlist.m3u8
-
-#EXTINF:-1, Sport 1 Ru (stream 2)
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-
-#EXTINF:-1, Sport 1 Ru (stream 3)
-http://yayinlar.tvizleyim.com/org13/sport1_me/playlist.m3u8
-
-#EXTINF:-1, Sport 2 Ru
-http://194.190.78.230/output/russia2/playlist.m3u8
-
-#EXTINF:-1, Sport 2 Ru
-http://hlsstr03.svc.iptv.rt.ru/hls/CH_RUSSIA2/variant.m3u8?version=2
-
-#EXTINF:-1, Sport 1 UA 
-http://91.193.124.5:8000/sport1
-
-#EXTINF:-1, Sport 2 UA 
-http://91.193.124.5:8000/sport2
-
-#EXTINF:-1,ENG-MMA BAY TV
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
-#EXTINF:-1,Sports Night
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
-
-#EXTINF:-1,TURK-BURSASPOR TV
-rtmp://stream.yayindayiz.biz:80/Bursaspor/bursaspor
-
-#EXTINF:-1,TURKMEN SPORT
-rtmp://217.174.227.20/webtv/ch004_sd
-
-#EXTINF:-1, NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, NBC GOLF 720p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
-#EXTINF:-1, NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:-1, SPORTSTV 
-http://origin.live.web.tv.streamprovider.net/streams/4be5c4a578575c5b4e15a61f2dbc01cf_live_0_0/index.m3u8
-
-#EXTINF:-1, TileSport TV
-rtmp://tv1.streampulse.eu/tilesport/movie1
-
-#EXTINF:-1, TVA Sport Canada
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-
-#EXTINF:0, Sport 1 (RU)
-http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
-
-#EXTINF:0, Sport 2 (RU)
-http://hls.novotelecom.ru/streaming/sport/tvrec/playlist.m3u8
-
-#EXTINF:0, Football (RU)
-http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-
-#EXTINF:-1,TURK:A SPOR
-http://hls.turkuvazgroup.net/aspor/aspor3/playlist.m3u8
-
-#EXTINF:0, Updated 3 Aug 2015
-
-EXTINF:-1,STENTE SPORT
-http://bit.ly/1Ugwy47
-#EXTINF:-1,IPTVSAGA: Premier Sports
-http://bit.ly/1eM2CfZ
-#EXTINF:-1,IPTVSAGA: ESPN
-http://bit.ly/1ISrctT
-#EXTINF:-1,IPTVSAGA: NBA
-http://bit.ly/1eM2GfC
-#EXTINF:-1, Sky Sports F1
-http://bit.ly/1STB5qp
-#EXTINF:-1, Sky Sports 1
-http://bit.ly/1E38aJR
-#EXTINF:-1, Sky Sports 2
-http://bit.ly/1JZGwzh
-#EXTINF:-1, Sky Sports 3
-http://bit.ly/1fX95FV
-#EXTINF:-1, Sky Sports 4
-http://bit.ly/1M5py8M
-#EXTINF:-1, Sky Sports 5
-http://bit.ly/1MEpeNq
-#EXTINF:-1, Sky Sports News HQ
-http://bit.ly/1DjLKsV
-#EXTINF:-1, BT Sport 1
-http://bit.ly/1KK7m4c
-#EXTINF:-1, BT Sport 2
-http://bit.ly/1E38qIT
-#EXTINF:-1, British Eurosport
-http://bit.ly/1JZGK9y
-#EXTINF:-1, British Eurosport 2
-http://bit.ly/1E38zf7
-
-#EXTINF:0, Updated 2 Aug 2015
-#EXTINF:0,FOX SPORT USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/66.m3u8
-#EXTINF:0,SPORT USA1
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
-#EXTINF:0,NBC GOLF USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/67.m3u8
-#EXTINF:0,SPORT USA2
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/69.m3u8
-#EXTINF:0,NBA USA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
-#EXTINF:0,NBC SPORT
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
-#EXTINF:0,CANAL+GOLF
-http://bit.ly/1I4Fxh4
-#EXTINF:0,CANAL+FOTBALL
-http://bit.ly/1MRHy3s
-#EXTINF:0,BEIN SPORT 1FR
-http://bit.ly/1D1Z6tS
-#EXTINF:0,BEIN SPORT 2FR
-http://bit.ly/1VIVMcV
-
-#EXTINF:0,SUPER SPORT HD1
-http://bit.ly/1h7ph8k
-#EXTINF:0,SUPER SPORT HD2
-http://bit.ly/1OQlpUp
-#EXTINF:0,SUPER SPORT HD3
-http://bit.ly/1I3WTgh
-#EXTINF:0,SUPER SPORT HD4
-http://bit.ly/1LSLeDl
-#EXTINF:-1,ESPN UK
-rtsp://deu.smoothstreams.tv:2935/view/ch17q1.stream?u=1249&p=Lg.TAaVMii
-#EXTINF:0,Sky Sport 1 DE
-http://balkanstream.com/stream/skysport01/Plum018-allka-alberim/plumsplums123
-#EXTINF:0,Sky Sport 2 DE
-http://balkanstream.com/stream/skysport02/Plum018-allka-alberim/plumsplums123
-
-
-#EXTINF:-1,Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 1
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky1 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 2
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky2 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 2
-rtmp://31.204.154.220:443/liverepeater playpath=181703 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 3
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky3 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=15
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 3
-rtmp://109.123.70.34:80/live playpath=sx3 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 3
-rtmp://31.204.150.240:443/liverepeater playpath=180155 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 live=1 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 4
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky4 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 4
-rtmp://31.220.0.195:80/live playpath=x4 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 4
-rtmp://109.123.70.20:80/live playpath=x4 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 5
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky5 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 5
-rtmp://31.220.0.103:80/live playpath=sx5 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports 5
-rtmp://46.227.70.66:80/live playpath=sx5 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports F1
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdskyf1 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=15
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports F1
-rtmp://31.204.154.15:443/liverepeater playpath=179892 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Sports F1
-rtmp://31.204.150.248:443/liverepeater playpath=179892 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Spts News
-rtmp://31.220.0.196:80/live playpath=ssnx live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
- 
-#EXTINF:-1 tvg-logo="vdubsports.jpg" group-title="UK SPORTS", Sky Spts News
-rtmp://31.220.0.196:80/live playpath=ssnx live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
- 
-#EXTINF:-1 tvg-logo="SetantaSports1.png" group-title="UK SPORTS", Setanta Sports Ireland
-rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku timeout=15
- 
-#EXTINF:-1 tvg-logo="BTSport1.png" group-title="UK SPORTS", BT Sport 1
-rtmp://31.220.0.104:80/live playpath=xt1 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="BTSport2.png" group-title="UK SPORTS", BT Sport 2
-rtmp://31.204.154.220:443/liverepeater playpath=179890 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="AtTheRaces.png" group-title="UK SPORTS", At The Races
-rtmp://31.204.150.232:443/liverepeater playpath=179646 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="BoxNation.png" group-title="UK SPORTS", BoxNation
-rtmpe://46.246.124.24:1935/live/ playpath=sboxn live=1 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=15
- 
-#EXTINF:-1 tvg-logo="ESPNUK.png" group-title="UK SPORTS", Espn Uk
-rtmp://31.204.152.4:443/liverepeater playpath=179635 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="PremierSports.png" group-title="UK SPORTS", Premier Sports
-rtmpe://46.246.124.30:1935/live/spremsp pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku  timeout=15
- 
-#EXTINF:-1 tvg-logo="RacingUK.png" group-title="UK SPORTS", Racing UK
-rtmp://109.123.70.34:80/live playpath=rxing live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=#yw%tt#w@kku timeout=14
- 
-#EXTINF:-1 tvg-logo="Willow.png" group-title="UK SPORTS",Willow Cricket
-rtmp://80.82.78.15:443/liverepeater playpath=38 live=1 pageUrl=http://popeoftheplayers.pw/Vd?u#bt!25 timeout=15 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="SetantaSports.png" group-title="UK Live TV", Setanta Sports ( track 2 )
-http://80.77.52.6:4444/udp/230.0.4.1:12345?Vd?u#bt!25
- 
-#EXTINF:-1 tvg-logo="FoxSoccerPlus.png" group-title="UK Live TV", Fox Soccer
-rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
- 
-#EXTINF:-1 tvg-logo="OSNSports.png.png" group-title="UK Live TV", OSN Sports Cricket
-rtmp://46.21.145.226/live playpath=fitch23?id=218892 live=1 pageUrl=http://www.mipsplayer.com/embedplayer/fitch23/1/600/400
- 
-
-
-
-
-
-
-#EXTINF:0,LIVERPOOL TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
-#EXTINF:0,CHELSEA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
-#EXTINF:0,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0,BARÇA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/102.m3u8
-#EXTINF:0,BARÇA TV HD
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/119.m3u8
-#EXTINF:0,TVA Sport CANADA
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1 tvg-logo="ESPNUSA.png" group-title="OTHER SPORTS", Espn USA
-rtmp://95.168.199.243:1935/live playpath=espnux live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
- 
-#EXTINF:-1 tvg-logo="FightSports.png" group-title="OTHER SPORTS",Fight Sports
-http://202.75.23.37/live/ch20/03.m3u8?Vd?u#bt!25
- 
-#EXTINF:-1 tvg-logo="FightSports.png" group-title="OTHER SPORTS", Fight Sports
-http://202.75.23.37:1400/live/ch20/03.m3u8?Vd?u#bt!25
- 
-#EXTINF:-1 tvg-logo="FoxSports1.png" group-title="OTHER SPORTS",Fox Sport 1
-rtmp://62.210.187.68:443/liverepeater playpath=169062 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="FoxSports2.png" group-title="OTHER SPORTS",Fox Sport 2
-rtmp://62.210.93.226:443/liverepeater playpath=168895 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="calio.png"group-title="OTHER SPORTS", [COLOR green] Sky Calcio ( ITA )[/COLOR]
-rtmp://31.220.0.195:1935/live playpath=amsportmechannel4 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="calio.png" group-title="OTHER SPORTS", [COLOR green] Sky Sport 1 ( ITA )[/COLOR]
-rtmp://31.220.0.195:1935/live playpath=amsportmechannel1 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="calio.png" group-title="OTHER SPORTS",[COLOR green] Sky Sport 2 ( ITA )[/COLOR]
-rtmp://95.168.199.241:1935/live playpath=amsportmechannel2 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="calio.png" group-title="OTHER SPORTS",[COLOR green] Sky Sport 3 ( ITA )[/COLOR]
-rtmp://31.220.0.195:1935/live playpath=amsportmechannel3 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="calio.png" group-title="OTHER SPORTS",[COLOR green] Sky Sport 24 ( ITA )[/COLOR]
-rtmp://31.220.0.195:1935/live playpath=amsportmechannel5 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="TSNHD.png" group-title="OTHER SPORTS", TSN 1
-rtmp://31.220.0.104:1935/live playpath=tsn1x live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
- 
-#EXTINF:-1 tvg-logo="TSNHD.png" group-title="OTHER SPORTS", TSN 2
-rtmp://31.204.150.232:443/liverepeater playpath=179035 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
- 
-#EXTINF:-1 tvg-logo="sportsnight.jpg" group-title="OTHER SPORTS", Sports Night
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
- 
-#EXTINF:-1 tvg-logo="sportsnight.jpg" group-title="OTHER SPORTS", Sports Night HD
- 
- 
-#EXTINF:-1 tvg-logo="BTN.png" group-title="HD SPORTS", Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8?Vd?u#bt!25
- 
-#EXTINF:-1 tvg-logo="kanalsport.png" group-title="HD SPORTS", Kanal Sports
-http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?Vd?u#bt!25
- 
-#EXTINF:-1 tvg-logo="NFLTV.png" group-title="HD SPORTS", NFL Network HD
-rtmpe://31.220.0.135/live playpath=nflusa_usa swfUrl=http://ukcast.co/player//player.swf live=1 pageUrl=http://www.ukcast.co/ token=%ZZri(nKa@#Z
-
-#EXTINF:0, Updated 1 Aug 2015
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 1
-rtmp://46.227.70.66:80/live playpath=sx1 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 1
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky1 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 2
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky2 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 2
-rtmp://31.204.154.220:443/liverepeater playpath=181703 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 3
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky3 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 3
-rtmp://109.123.70.34:80/live playpath=sx3 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 3
-rtmp://31.204.150.240:443/liverepeater playpath=180155 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 live=1 token=#atd%#$ZH timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 4
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky4 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 4
-rtmp://31.220.0.195:80/live playpath=x4 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 4
-rtmp://109.123.70.20:80/live playpath=x4 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 5
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdsky5 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 5
-rtmp://31.220.0.103:80/live playpath=sx5 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports 5
-rtmp://46.227.70.66:80/live playpath=sx5 live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports F1
-rtmpe://46.246.29.162:1935/live/ playpath=Sporthdskyf1 pageUrl=http://www.hdcast.org/Vd?u#bt!25 token=#yw%tt#w@kku timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports F1
-rtmp://31.204.154.15:443/liverepeater playpath=179892 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Sports F1
-rtmp://31.204.150.248:443/liverepeater playpath=179892 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Spts News
-rtmp://31.220.0.196:80/live playpath=ssnx live=1 pageUrl=http://flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
-
-#EXTINF:-1 tvg-logo=”vdubsports.jpg” group-title=”UK SPORTS”, Sky Spts News
-rtmp://31.220.0.196:80/live playpath=ssnx live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=10
-
-#EXTINF:-1 tvg-logo=”SetantaSports1.png” group-title=”UK SPORTS”, Setanta Sports Ireland
-rtmpe://46.246.124.24:1935/live playpath=ssetanta swfUrl=http://prvservers.com/j/jwplayer.flash.swf pageUrl=http://prvservers.com/ live=1 token=#yw%tt#w@kku timeout=15
-
-#EXTINF:-1 tvg-logo=”BTSport1.png” group-title=”UK SPORTS”, BT Sport 1
-rtmp://31.220.0.104:80/live playpath=xt1 live=1 pageUrl=http://www.flashtv.co/Vd?u#bt!25 token=%ZZri(nKa@#Z timeout=15
-
-#EXTINF:-1 tvg-logo=”BTSport2.png” group-title=”UK SPORTS”, BT Sport 2
-rtmp://31.204.154.220:443/liverepeater playpath=179890 live=1 pageUrl=http://biggestplayer.me/Vd?u#bt!25 token=#atd%#$ZH timeout=15
-
-
-
-
+#EXTINF:0,Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:0,FOX 45HD
+http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
+#EXTINF:0,FOX 45SD
+http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
+#EXTINF:0,FOX News HD
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:0,FOX News SD
+http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
+#EXTINF:0,Golf Channel HD
+http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
+#EXTINF:0,Hallmark HD
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:0,HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:0,HBO SD
+http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
+#EXTINF:0,HGTV
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+#EXTINF:0,History Channel (Europe)
+http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+#EXTINF:0,History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:0,I.D.
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+#EXTINF:0,Lifetime HD
+http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,MSNBC SD
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:0,MTV
+http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:0,Nat GEO SD
+http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:0,NBC SD
+http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
+#EXTINF:0,NBC Sports Network HD
+http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,NBC Sports Network SD
+http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,Nickelodeon HD
+http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
+#EXTINF:0,Nickelodeon SD
+http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
+#EXTINF:0,OWN
+http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
+#EXTINF:0,Oxygen
+http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,Science
+http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
+#EXTINF:0,Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:0,Showtime SD
+http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
+#EXTINF:0,Spike
+http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+#EXTINF:0,SyFy HD
+http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,tbs
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+#EXTINF:0,TLC
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,TNT SD
+http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
+#EXTINF:0,Travel Channel HD
+http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
+#EXTINF:0,Travel Channel SD
+http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
+#EXTINF:0,TruTV
+http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
+#EXTINF:0,TV Land
+http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
+#EXTINF:0,Univision
+http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
+#EXTINF:0,USA Network
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
