@@ -1,23 +1,36 @@
 #EXTM3U
 #EXTINF:0, Updated 4 Aug 2015
 
-#EXTINF:-1,- – – – – – SPORT – – – – – –
-http://proffiptv.mine.nu:15003/live/morgan/morgan/161.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://proffiptv.mine.nu:15003/live/morgan/morgan/29.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://proffiptv.mine.nu:15003/live/morgan/morgan/30.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://proffiptv.mine.nu:15003/live/morgan/morgan/31.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://proffiptv.mine.nu:15003/live/morgan/morgan/32.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://proffiptv.mine.nu:15003/live/morgan/morgan/33.ts
-#EXTINF:-1,FOX Sport HD
-http://proffiptv.mine.nu:15003/live/morgan/morgan/35.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://proffiptv.mine.nu:15003/live/morgan/morgan/36.ts
-#EXTINF:-1,Sky Sport MotoGP HD
+EXTINF:-1,UK: Sky Sports 1 HD
+http://bit.ly/1KMDNik
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://bit.ly/1hgnRZ6
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://bit.ly/1UjmAPm
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://bit.ly/1JIFPyO
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://bit.ly/1DlPJ8j
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://bit.ly/1OLXAMN
+#EXTINF:-1,UK: Sky Sports F1
+http://bit.ly/1E57XWr
+#EXTINF:-1,UK: Premier Sports
+http://bit.ly/1Il3GAa
+#EXTINF:-1,UK: Setanta Sports
+http://bit.ly/1MIEZDT
+#EXTINF:-1,UK: Sky Eurosport 1 HD
+http://bit.ly/1M7Mm7R
+#EXTINF:-1,UK: Sky Eurosport 2 HD
+http://bit.ly/1IBJ1XB
+#EXTINF:-1,UK: Sky BT Sport 1
+http://bit.ly/1SEjOXr
+#EXTINF:-1,UK: Sky BT Sport 2
+http://bit.ly/1DlPTwv
+#EXTINF:-1,UK: Sky Liverpool FC TV HD
+http://bit.ly/1UjmJSI
+#EXTINF:-1,UK: Sky Chelsea TV HD
+http://bit.ly/1Il3Rvd
 
 #EXTINF:-1,[COLOR blue][I][B]--- 02-08-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 02-08-2015--[/COLOR] 
