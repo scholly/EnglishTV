@@ -1,136 +1,329 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]by http://iptv-m3u-playlist-url.blogspot.com/[/COLOR]
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,abc hd
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,24/7Comedy Movies
-http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
-#EXTINF:0,24/7HD Movies 1
-http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
-#EXTINF:0,ABC 22HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,ABC Family
-http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
+#EXTINF:-1, [COLOR blue]Thanks to all my followers on Facebook & for testing the test channels[/COLOR]
+
+
+
+#EXTINF:-1, [COLOR blue]Find us on Facebook @ https://www.facebook.com/futuhdware[/COLOR]
+
+
+
+#EXTINF:-1, [COLOR yellow] FutuHDware HD TV LIST  [/COLOR]
+ 
+#EXTINF:-1,[COLOR blue][I][B]-------------- Last Updated 31.07.15 --------------[/B][/I][/COLOR]
+
+
+#EXTINF:-1,[B][COLOR yellow]--- BBC STREAMS MAY NEED A UK VPN TO VIEW ---[/COLOR][/B]
+
+#EXTINF:-1,BBC1 [COLOR blue]HD[/COLOR]
+http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,BBC2 [COLOR blue]HD[/COLOR]
+http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,BBC3 [COLOR blue]HD[/COLOR] From 7pm GMT
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,BBC News [COLOR blue]HD[/COLOR]
+http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,ITV 1 [COLOR blue]HD[/COLOR]
+http://62.65.140.154:80/session/130238f2-362f-11e5-a1a6-005056bc06d1/nvnv5a/4018/4240000/index.m3u8
+#EXTINF:-1,E4 [COLOR blue]HD[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1,Film4 [COLOR blue]HD[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1,SHOwtime [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,Discovery [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Discovery Science [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,SportsNet360 [COLOR blue]HD[/COLOR]
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1,Big Ten Network [COLOR blue]HD[/COLOR]
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1,NBC Sports Golf 720p [COLOR blue]HD[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Golf 1080p [COLOR blue]HD[/COLOR]
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 1080P [COLOR blue]HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBC Sports Network 720P [COLOR blue]HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBCSN Live Extra 1080p [COLOR blue]HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NBCSN Live Extra 720p [COLOR blue]HD[/COLOR]
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1,NFL Network [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/72.m3u8
+#EXTINF:-1,MLB Network [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/40.m3u8
+#EXTINF:-1,NHL [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/73.m3u8
+#EXTINF:-1,NBA [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/70.m3u8
+#EXTINF:-1,MLS [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/68.m3u8
+#EXTINF:-1,UFC [COLOR blue]HD[/COLOR]
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/75.m3u8
+#EXTINF:-1,ESPN [COLOR blue]HD[/COLOR]
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,Sky Sports F1 [COLOR blue]HD[/COLOR]
+http://bit.ly/1SgJ2ei
+
+
+
+
+#EXTINF:-1,PAC Mountain 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC Network National 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 720P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1080P [COLOR blue]HD[/COLOR]
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
+
+
+#EXTINF:-1,[COLOR yellow]--- NASA Live Streams ---[/COLOR]
+
+
+#EXTINF:-1,NASA [COLOR green](online) [/COLOR]
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ISS Live 1 [COLOR green](online) [/COLOR]
+http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ISS Live 2 [COLOR green](online) [/COLOR]
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+
+
+
+#EXTINF:-1,[COLOR yellow][I][B].........SD CHANNELS..........[/B][/I][/COLOR]
+
+
+
+#EXTINF:-1,BBC One London
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-audio_2%3D96000-video%3D1374000.m3u8
+#EXTINF:0,BBC 2
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_2%3D96000-video%3D1374000.m3u8
+#EXTINF:-1,ITV 1 London
+http://teleboy.customers.cdn.iptv.ch/4018/2290000/index.m3u8
+
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1,Sky News UK
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1,BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1,CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+
+#EXTINF:-1,Discovery Science USA
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,USA NETWORK
+http://bit.do/6oh4
+#EXTINF:-1,WWE NETWORK
+rtmp://137.63.71.18:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=9&width=600&height=450 token=#atd%#$ZH timeout=25
+#EXTINF:-1,VH1
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+#EXTINF:-1,4 MUSIC
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:-1,THE BOX
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+#EXTINF:-1,MAGIC
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+#EXTINF:-1,HEAT
+http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8
+#EXTINF:-1,CLUBLAND
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,KISS TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,NOW THATS WHAT I CALL MUSIC
+http://bit.do/6wp2
+#EXTINF:-1,AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,HEART
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1,CAPITAL
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+
+
+
+#EXTINF:-1,[COLOR blue][I][B]-------------- FutuHDware VOD --------------[/B][/I][/COLOR]
+
+#EXTINF:-1, Dark Summer 2015 Bluray 720
+http://bit.do/7vou
+#EXTINF:-1, Dying of the light 2014 HD
+http://bit.do/7vjS
+#EXTINF:-1, accidental love 2015 HD
+http://bit.do/7vjV
+#EXTINF:-1, snow in paradise 2014 HD
+http://bit.do/7vj5
+#EXTINF:-1, non stop 2014 HD
+http://bit.do/7vj9
+#EXTINF:-1, Fast and Furious 7 2015 HD
+http://bit.do/7vkm
+#EXTINF:-1, Paddington 2014 HD
+http://bit.do/7vkq
+#EXTINF:-1, The lazarus effect 2015 HD
+http://bit.do/7vks
+#EXTINF:-1, Residue 2015 HD
+http://bit.do/7vku
+#EXTINF:-1, Enter the dangerous mind 2015 HD
+http://bit.do/7vkx
+#EXTINF:-1, Pain & gain 2013 HD
+http://bit.do/7vky
+#EXTINF:-1, Superfast 2015 HD
+http://bit.do/7vkB
+#EXTINF:-1, The heat 2013 HD
+http://bit.do/7vkC
+#EXTINF:-1, Bad asses on the bayou 2014 HD
+http://bit.do/7vkF
+#EXTINF:-1, Bad ass 2 bad asses 2014 HD
+http://bit.do/7vkG
+#EXTINF:-1, Exeter 2015 HD
+http://bit.do/7vkH
+#EXTINF:-1, Barely lethal 2015 HD
+http://bit.do/7vkK
+#EXTINF:-1, The second best exotic marigold hotel 2015 HD
+http://bit.do/7vkM
+#EXTINF:-1, Age of kill 2015 HD
+http://bit.do/7vkZ
+#EXTINF:-1, Minions 2015 TS
+http://bit.do/7vma
+#EXTINF:-1, Champs (documentry, sport) 2015 HD
+http://bit.do/7vme
+#EXTINF:-1, Jack Reacher 2012 HD
+http://bit.do/7vmi
+#EXTINF:-1, Avengers Grimm 2015 HD
+http://bit.do/7vmt
+#EXTINF:-1, Looney tunes rabbit run 2015
+http://bit.do/7vmA
+#EXTINF:-1, Inside out 2015 TS
+http://bit.do/7vmG
+#EXTINF:-1, Scooby doo and kiss rock and roll mystery 2015 HD
+http://bit.do/7vmR
+#EXTINF:-1, Pixies 2015
+http://bit.do/7vmV
+#EXTINF:-1, The jokesters 2015
+http://bit.do/7vmX
+#EXTINF:-1, Lila and eve 2015 HD
+http://bit.do/7vmY
+#EXTINF:-1, Awaken 2015 HD
+http://bit.do/7vmZ
+#EXTINF:-1, Joe dirt 2 beautiful loser 2015 HD
+http://bit.do/7vm4
+#EXTINF:-1, Son of a gun 2014 HD
+http://bit.do/7vm5
+#EXTINF:-1, nightcrawler 2014 HD
+http://bit.do/7vm8
+#EXTINF:-1, Echoes of war 2015 HD
+http://bit.do/7vna
+#EXTINF:-1, The prince 2014 HD
+http://bit.do/7vnc
+#EXTINF:-1, Bonnie Clyde Justified 2013 HD
+http://bit.do/7vnk
+#EXTINF:-1, Blackhat 2015 HD
+http://bit.do/7vnr
+#EXTINF:-1, Ant man CAM Q 2015
+http://bit.do/7vnw
+
+
+#EXTINF:-1, Pitch Perfect 2 2015 HD
+http://bit.do/7vnE
+#EXTINF:-1, Max 2015
+http://bit.do/7vnL
+#EXTINF:-1, Need for speed 2014 HD
+http://bit.do/7vnQ
+#EXTINF:-1, Insurgent 2015 HD
+http://bit.do/7vnS
+#EXTINF:-1, Street fighter assassins fist 2014 HD
+http://bit.do/7vnY
+
+
+
+
+#EXTINF:-1,[COLOR blue][I][B]-------------- USER TEST CHANNEL AREA --------------[/B][/I][/COLOR]
+
+
+
+
+#EXTINF:0,CHELSEA-TV
+http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/515.ts
+#EXTINF:0,MU-TV
+http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/516.ts
+#EXTINF:0,LIVERPOOL-TV
+http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/517.ts
+
+#EXTINF:-1,[COLOR yellow]--- USA Test ---[/COLOR]
+
+
 #EXTINF:0,AMC
 http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,beIN Sport (Spanish)
-http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
-#EXTINF:0,beIN Sport (USA)
-http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
 #EXTINF:0,BET
 http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:0,Bravo
-http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
 #EXTINF:0,Cartoon Network
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 #EXTINF:0,CBS HD (WHIO 7)
 http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,CNN USA HD
+#EXTINF:0,CNN USA 
 http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
-#EXTINF:0,CNN USA SD
-http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Crime & Investigation
-http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
-#EXTINF:0,Discovery Channel HD
+#EXTINF:0,Discovery Channel 
 http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
 #EXTINF:0,Disney Channel
 http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:0,ESPN HD
+#EXTINF:0,ESPN 
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN SD
-http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
-#EXTINF:0,ESPN 2HD
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:0,ESPN 2SD
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
 #EXTINF:0,Food Network
 http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-#EXTINF:0,FOX 45HD
-http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
-#EXTINF:0,FOX 45SD
-http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
-#EXTINF:0,FOX News HD
+#EXTINF:0,FOX News 
 http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-#EXTINF:0,FOX News SD
-http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:0,Golf Channel HD
-http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
-#EXTINF:0,Hallmark HD
+#EXTINF:0,Hallmark 
 http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-#EXTINF:0,HBO HD
+#EXTINF:0,HBO 
 http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:0,HBO SD
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
 #EXTINF:0,HGTV
 http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-#EXTINF:0,History Channel (Europe)
-http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
 #EXTINF:0,History Channel (USA)
 http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:0,I.D.
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:0,Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,MSNBC SD
+
+#EXTINF:0,MSNBC 
 http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
 #EXTINF:0,MTV
 http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-#EXTINF:0,Nat GEO HD
+#EXTINF:0,Nat GEO
 http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,Nat GEO SD
-http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
-#EXTINF:0,NBC HD
+#EXTINF:0,NBC
 http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:0,NBC SD
-http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
-#EXTINF:0,NBC Sports Network HD
-http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,NBC Sports Network SD
-http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,Nickelodeon HD
-http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
-#EXTINF:0,Nickelodeon SD
-http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
-#EXTINF:0,OWN
-http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
-#EXTINF:0,Oxygen
-http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Science
-http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:0,Showtime SD
-http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
+
 #EXTINF:0,Spike
 http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-#EXTINF:0,SyFy HD
-http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,SyFy SD
+#EXTINF:0,SyFy
 http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,tbs
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+
 #EXTINF:0,TLC
 http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
-#EXTINF:0,TNT HD
+#EXTINF:0,TNT
 http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,TNT SD
-http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
-#EXTINF:0,Travel Channel HD
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
-#EXTINF:0,Travel Channel SD
-http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
-#EXTINF:0,TruTV
-http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
-#EXTINF:0,TV Land
-http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
-#EXTINF:0,Univision
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
 #EXTINF:0,USA Network
 http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+#EXTINF:0,VH-1
+http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
+
+
+
+#EXTINF:0,[COLOR blue][I][B]-------------- FutuHDware TEST CHANNEL AREA --------------[/B][/I][/COLOR]
